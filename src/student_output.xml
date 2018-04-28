@@ -1,0 +1,35 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+
+                    table, th, td {
+                    border: 2px solid black;
+                    padding: 3px;
+                    }
+                    table {
+                    border-spacing: 2px;
+                    }
+                    
+                </style>
+</head>
+<body style="background-color:maroon;">
+<div>
+<h1 style="background-color:black; font-family:cooper black; font-size:950%; color:gold; text-align:center;">
+<img src="F:\University\Semester VI\CSBX23 XML and Web Services\Project\logo2.jpg" alt="Ace Academy Logo" align="left" width="175" height="175">Ace Academy</h1>
+</div>
+<div>
+<p style="font-size:250%; color:white;">
+<b><u>Student Information</u></b>
+</p>
+<table>
+<tr style="background-color:white; color:black; font-size:200%;">
+<th>Name</th><th>ID</th><th>No_of_Tests</th><th>Physics</th><th>Chemistry</th><th>Biology</th><th>Mathematics</th><th>Percentage</th><th>Agg_Percentage</th>
+</tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+</div>
+</body>
+</html>

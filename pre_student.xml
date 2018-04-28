@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<academy>
+	<student>
+		<s_name>Annabeth Chase</s_name>
+		<s_id>1005</s_id>
+		<physics>100</physics>
+		<chemistry>99</chemistry>
+		<biology>98</biology>
+		<mathematics>100</mathematics>
+		<percentage>99.25</percentage>
+		<agg_percent>98.7</agg_percent>		
+	</student>
+	<student>
+		<s_name>Percy Jackson</s_name>
+		<s_id>1001</s_id>
+		<physics>97</physics>
+		<chemistry>96</chemistry>
+		<biology>99</biology>
+		<mathematics>91</mathematics>
+		<percentage>95.75</percentage>
+		<agg_percent>95.23</agg_percent>
+	</student>
+	<student>
+		<s_name>Jason Grace</s_name>
+		<s_id>1002</s_id>
+		<physics>95</physics>
+		<chemistry>96</chemistry>
+		<biology>94</biology>
+		<mathematics>95</mathematics>
+		<percentage>95.00</percentage>
+		<agg_percent>94.35</agg_percent>
+	</student>
+	<student>
+		<s_name>Drew Tanaka</s_name>
+		<s_id>1004</s_id>
+		<physics>94</physics>
+		<chemistry>95</chemistry>
+		<biology>91</biology>
+		<mathematics>93</mathematics>
+		<percentage>93.25</percentage>
+		<agg_percent>93.00</agg_percent>
+	</student>
+	<student>
+		<s_name>Connor Stoll</s_name>
+		<s_id>1003</s_id>
+		<physics>90</physics>
+		<chemistry>92</chemistry>
+		<biology>91</biology>
+		<mathematics>89</mathematics>
+		<percentage>90.5</percentage>
+		<agg_percent>90.22</agg_percent>
+	</student>
+	<tutor>
+		<t_name>Athena Chase</t_name>
+		<t_id>5001</t_id>
+		<subject>Physics</subject>
+		<ph_no>879-555-0892</ph_no>
+	</tutor>
+	<tutor>
+		<t_name>Severus Snape</t_name>
+		<t_id>5002</t_id>
+		<subject>Chemistry</subject>
+		<ph_no>964-555-6684</ph_no>
+	</tutor>
+	<tutor>
+		<t_name>Septima Vector</t_name>
+		<t_id>5003</t_id>
+		<subject>Biology</subject>
+		<ph_no>561-555-6811</ph_no>
+	</tutor>
+	<tutor>
+		<t_name>Chiron Brunner</t_name>
+		<t_id>5004</t_id>
+		<subject>Mathematics</subject>
+		<ph_no>545-555-4986</ph_no>
+	</tutor>
+</academy>
